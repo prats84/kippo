@@ -33,3 +33,4 @@ test:0:password
 test:0:test
 uploader:0:uploader
 user:0:
+*:0:<<< %s(un='%s') = %u
